@@ -1,2 +1,6 @@
 # java-openhpi
-Development course
+Development course of JAVA
+Software Development Professional
+
+Carlos Escalante @ Copyright 2018
+
